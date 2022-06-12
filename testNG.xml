@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="TestSuite">
+
+  <test name="Test Login">
+    <classes>
+      <class name="testCases.Answers"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
